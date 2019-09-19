@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Can You Guess IT ?</string>
+    <string name="button_main">PLAY</string>
+    <string name="activity2_name">main_menu</string>
+    <string name="blank">""</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="check">CHECK</string>
+    <string name="restart">RESTART!</string>
+    <string name="resign">RESIGN!</string>
+    <string name="purpose">PURPOSE</string>
+    <string name="developer">This Game was Developed by Aryen HEMVATAN</string>
+    <string name="back">BACK</string>
+</resources>
